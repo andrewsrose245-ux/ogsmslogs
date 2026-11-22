@@ -63,7 +63,7 @@ footer{padding:30px 22px;text-align:center;color:var(--muted);font-size:12px}
 <div class="tile"><div class="emoji">④</div><h3>Track your order</h3><p>See status updates and contact support when needed.</p></div>
 </section>
 <div class="section-head" id="support"><div><h2>Need help?</h2><p>Customer support details can be added before launch.</p></div></div>
-<section class="panel"><b>ØGSMSLOGS Support</b><p style="font-size:13px;color:var(--muted)">Add your verified WhatsApp number, support email and business hours here.</p></section>
+<section class="panel"><b>ØGSMSLOGS Support</b><p style="font-size:13px;color:var(--muted)">Add your verified WhatsApp number 09131285556, support email ogwirewiremonie6@gmail.com and business hours here.247 active </p></section>
 </main>
 <footer>© 2026 ØGSMSLOGS. All rights reserved. · Preview only — payments, accounts, inventory and provider APIs are not yet connected.</footer>
 <div class="modal" id="modal" onclick="if(event.target===this)closeModal()"><div class="dialog"><button class="close" onclick="closeModal()">✕</button><h3 id="modalTitle">Coming soon</h3><p id="modalText" style="color:#65748b;font-size:13px;line-height:1.6">This is a design preview. The secure backend and live providers will be configured before launch.</p><button class="btn" onclick="closeModal()">Got it</button></div></div>
